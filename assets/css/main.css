@@ -8,16 +8,16 @@
 :root {
   --global-bg-color: #ffffff;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
-  --global-text-color: #000000;
-  --global-text-color-light: #828282;
-  --global-theme-color: #B509AC;
-  --global-hover-color: #B509AC;
+  --global-text-color: #2e2e2e;
+  --global-text-color-light: #666666;
+  --global-theme-color: #8f0d0d;
+  --global-hover-color: #450808;
   --global-hover-text-color: #ffffff;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
   --global-distill-app-color: #828282;
-  --global-divider-color: rgba(0,0,0,.1);
+  --global-divider-color: #e7d192;
   --global-card-bg-color: #ffffff;
 }
 :root .fa-sun {
@@ -72,6 +72,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-size: 1.1rem;
 }
 body h1, body h2, body h3, body h4, body h5, body h6 {
   scroll-margin-top: 66px;
@@ -123,7 +124,7 @@ hr {
 
 table td,
 table th {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 table th {
   font-weight: bold;
@@ -343,7 +344,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 4rem;
+  font-size: 3rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
