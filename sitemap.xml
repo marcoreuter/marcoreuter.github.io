@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://alshedivat.github.io/al-folio/news/news_a16z_post/</loc>
+<loc>https://marcoreuter.github.io/news/news_a16z_post/</loc>
 <lastmod>2023-01-13T19:59:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://alshedivat.github.io/al-folio/news/news_a16z_visit/</loc>
+<loc>https://marcoreuter.github.io/news/news_a16z_visit/</loc>
 <lastmod>2023-03-24T19:59:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://alshedivat.github.io/al-folio/news/news_imd/</loc>
+<loc>https://marcoreuter.github.io/news/news_imd/</loc>
 <lastmod>2023-04-28T20:11:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://alshedivat.github.io/al-folio/news/news_imf/</loc>
+<loc>https://marcoreuter.github.io/news/news_imf/</loc>
 <lastmod>2023-05-02T11:59:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://alshedivat.github.io/al-folio/</loc>
+<loc>https://marcoreuter.github.io/</loc>
 </url>
 <url>
-<loc>https://alshedivat.github.io/al-folio/news/</loc>
+<loc>https://marcoreuter.github.io/news/</loc>
 </url>
 <url>
-<loc>https://alshedivat.github.io/al-folio/publications/</loc>
+<loc>https://marcoreuter.github.io/publications/</loc>
 </url>
 </urlset>
