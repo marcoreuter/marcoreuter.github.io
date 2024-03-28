@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Optimal Membership Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776110), a new paper by [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Scott Duke Kominers](http://scottkom.com/index.html), [Changhwa Lee](https://sites.google.com/view/changhwalee/home) and myself. Feedback is welcome!
+[Optimal Membership Design](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776110), a new paper with [Piotr Dworczak](https://sites.northwestern.edu/dworczak/), [Scott Duke Kominers](http://scottkom.com/index.html), [Changhwa Lee](https://sites.google.com/view/changhwalee/home). Feedback is welcome!
