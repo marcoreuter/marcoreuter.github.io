@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Revenue Maximization with Partially Verifiable Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4053767).
+- [Revenue Maximization with Partially Verifiable Information](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4053767).
