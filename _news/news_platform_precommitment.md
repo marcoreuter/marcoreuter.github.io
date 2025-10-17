@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-- [Platform Precommitment Via Decentralization](https://www.imf.org/en/Publications/WP/Issues/2024/02/09/Platform-Precommitment-via-Decentralization-544468).  
+[Platform Precommitment Via Decentralization](https://www.imf.org/en/Publications/WP/Issues/2024/02/09/Platform-Precommitment-via-Decentralization-544468).  
 [[a16z blog]](https://a16zcrypto.com/posts/article/when-is-decentralizing-on-a-blockchain-valuable/) [[a16z video]](https://www.youtube.com/watch?v=OaZSCmjW_GE)
