@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-- [Mechanism Design for Unequal Societies]([https://www.imf.org/en/Home](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3688376)) with [Carl-Christian Groh](https://carlchristiangroh.com/).
+[Mechanism Design for Unequal Societies]([https://www.imf.org/en/Home](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3688376)) with [Carl-Christian Groh](https://carlchristiangroh.com/).
