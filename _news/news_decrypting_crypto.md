@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-[Decrypting Crypto: How to Estimate International Stablecoin Flows](https://www.elibrary.imf.org/view/journals/001/2025/141/001.2025.issue-141-en.xml), a new paper that leverages AI and ML to overcome the "anonymity" of crypto assets and map the geographic distribution of $2 trillion in 2024 international stablecoin flows!
+[Decrypting Crypto: How to Estimate International Stablecoin Flows](https://www.imf.org/en/Publications/WP/Issues/2025/07/11/Decrypting-Crypto-How-to-Estimate-International-Stablecoin-Flows-568260)
+
+Mentions: [IMF Global Financial Stability Report](https://www.imf.org/en/Publications/GFSR/Issues/2025/10/14/global-financial-stability-report-october-2025) [IMF External Sector Report](https://www.imf.org/en/Publications/ESR/Issues/2025/07/22/external-sector-report-2025) [The Economist](https://www.economist.com/finance-and-economics/2025/09/02/china-turns-crypto-curious)
