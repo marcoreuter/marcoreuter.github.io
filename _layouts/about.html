@@ -45,13 +45,13 @@ layout: default
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><i class="fa-regular fa-lightbulb"></i> Papers</h2> <!-- <a style="color: inherit;">News</a>-->
-            {%- include news.html limit=true %}
+            {%- include news.html limit=false %}
           {%- endif %}
 
                     <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><i class="fa-solid fa-landmark-dome"></i> Policy</h2> <!-- <a style="color: inherit;">News</a>-->
-            {%- include policy.html limit=true %}
+            {%- include policy.html limit=false %}
           {%- endif %}
 
           <!-- Latest posts -->
