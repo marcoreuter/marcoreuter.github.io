@@ -143,6 +143,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  policy:
+    defaults:
+      layout: post
+    output: true
+    permalink: /policy/:path/
   projects:
     output: false
     permalink: /projects/:path/
