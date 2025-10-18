@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <i class="fa-solid fa-user-graduate"></i> Marco Reuter
+title: <i class="fa-regular fa-user"></i> Marco Reuter
 permalink: /
 subtitle:
 
