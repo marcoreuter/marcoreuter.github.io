@@ -7,9 +7,9 @@
               {% if include.limit and site.announcements.limit %}
               {% assign news_limit = site.announcements.limit %}
               {% else %}
-              {% assign news_limit = news_size %}
+              {% assign policy_limit = policy_size %}
               {% endif %}
-              {% for item in policy limit: news_limit %}
+              {% for item in policy limit: policy_limit %}
                 <tr>
                   <td>
                     {% if item.inline -%}
